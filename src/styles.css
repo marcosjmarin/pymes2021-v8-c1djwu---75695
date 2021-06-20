@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+#divBody {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
